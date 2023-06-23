@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @burazko
 - 👀 I’m looking for smth interesting on GitHub
 - 🌱 I’m currently learning Python, that's my first language 
-- 📫 How to reach me: tg: @burazko; discord: burazko#3338
+- 📫 How to reach me: tg: @burazko; discord: burazko
 
 <!---
 burazko/burazko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
