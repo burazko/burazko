@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burazko
 - 👀 I’m looking for smth interesting on GitHub
-- 🌱 I’m currently learning Python, that's my first language 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: tg: @burazko; discord: burazko
 
 <!---
